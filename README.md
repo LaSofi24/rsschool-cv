@@ -1,3 +1,3 @@
 # rsschool-cv
-html://LaSofi24.github.io/rsschool-cv/
-html://LaSofi24.github.io/rsschool-cv/cv
+https://LaSofi24.github.io/rsschool-cv/
+https://LaSofi24.github.io/rsschool-cv/cv
